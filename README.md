@@ -1,2 +1,1 @@
-Drum-Kit
-JavaScript Web Project
+Drum-Kit JavaScript Web Project
